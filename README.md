@@ -1,6 +1,8 @@
 # GNOME Window Swipe Switcher
 
-A GNOME Shell extension for switching between individual windows using touchpad swipe three fingers gestures.
+A GNOME Shell extension for switching between individual windows using touchpad swipe gestures.
+
+***Use Three Fingers to switch between running app's windows***
 
 ## Status
 

@@ -1,0 +1,8 @@
+{
+  "name": "Window Swipe Switcher",
+  "description": "Switch windows with three-finger touchpad gestures",
+  "uuid": "window-swipe-switcher@local",
+  "shell-version": [
+    "50"
+  ]
+}
